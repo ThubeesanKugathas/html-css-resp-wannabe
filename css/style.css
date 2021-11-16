@@ -74,7 +74,7 @@ img {
 
 /* ----------------------------TABLET DEVICE------------------------------- */
 
-@media screen and (min-width: 576px) and (max-width: 1199px) {
+@media screen and (min-width: 575px) and (max-width: 1199px) {
   
   * {
     margin: 0;
